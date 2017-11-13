@@ -14,6 +14,7 @@ public class LinkedHashSetDemo {
 	public static void main(String[] args) {
 		LinkedHashSet<String> ls = new LinkedHashSet<String>();
 		ls.add("A");
+		ls.add("B");
 		
 		
 	}
