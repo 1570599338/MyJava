@@ -1,0 +1,7 @@
+DoubleDem这个方法主要是验证double的不能进行一系列的计算或比较的。
+DoubleUtil这类主要是解决利用BigDecimal来解决double双精度计算问题。
+
+
+
+
+

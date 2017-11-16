@@ -1,6 +1,7 @@
 package com.lquan.collection.list.test;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 
 /**
  * Title   TestArrayListDemo.java
@@ -14,6 +15,7 @@ public class TestArrayListDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		ArrayList<String> list = new ArrayList<String>();
+		LinkedList<String> list2 =new LinkedList<String>();
 		
 		
 

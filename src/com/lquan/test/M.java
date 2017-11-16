@@ -11,7 +11,7 @@ public class M {
 		init();
 	}
 	
-	   void init() {
+	public void init() {
 		   System.out.println("****MMMM---init()****");
 	    }
 	   
@@ -20,7 +20,11 @@ public class M {
 		   initx() ;
 	}
 	   
-	   void initx() {
+	   public void initx() {
 		   System.out.println("****MMMM---initX()****");
+	    }
+	   
+	   public  final void eat() {
+		   System.out.println("****MMMM---eat()****");
 	    }
 }

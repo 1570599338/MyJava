@@ -11,13 +11,18 @@ public class linkedM extends M{
 	}
 	
 	@Override
-	void init() {
+	public void init() {
 		// TODO Auto-generated method stub
 		System.out.println("*****LinkedM-init()******");
 	}
+	
+	
 	@Override
-	void initx() {
+	public void initx() {
 		// TODO Auto-generated method stub
 		System.out.println("*****LinkedM-initx()******");
 	}
+	
+	
+
 }
