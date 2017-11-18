@@ -1,0 +1,17 @@
+package com.lquan.collection.thread.test;
+
+/**
+ * Title   ThreadDemo.java
+ * Descr   线程的详细testDemo
+ * Email   lquan.liu@outlook.com 
+ * @author lquan
+ * @dates  2017年11月18日 下午11:12:18
+ */
+public class ThreadDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
