@@ -37,7 +37,7 @@ public class AtomicIntegerDemo {
 			threads[i].start();
 		}
 		
-		while (Thread.activeCount()>-1) {
+		while (Thread.activeCount()>1) {
 			Thread.yield();
 		}
 		System.out.println(race);
