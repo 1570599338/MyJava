@@ -8,9 +8,11 @@ package com.lquan.collection.thread.test;
  * @dates  2017年11月18日 下午11:12:18
  */
 public class ThreadDemo {
-
+	
+	public volatile String aaString = "AAAAA";
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 
 	}
 
