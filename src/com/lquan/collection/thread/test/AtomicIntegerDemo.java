@@ -41,12 +41,6 @@ public class AtomicIntegerDemo {
 			Thread.yield();
 		}
 		System.out.println(race);
-		
-		
-		
-		
-		
-		
 
 	}
 
