@@ -14,8 +14,11 @@ public class VolatileDemo {
 	
 	public volatile static int race = 0;
 	
-	public static void increase() {
-		race++;
+	public static synchronized void increase() {
+		synchronized (new Object()) {
+			race++;
+		}
+		
 	}
 	
 	private static int threadCount = 20;
