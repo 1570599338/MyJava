@@ -1,5 +1,7 @@
 package com.lquan.collection.thread.test;
 
+import java.util.concurrent.Callable;
+
 /**
  * Title   ThreadDemo.java
  * Descr   线程的详细testDemo
@@ -12,6 +14,7 @@ public class ThreadDemo {
 	public volatile String aaString = "AAAAA";
 	
 	public static void main(String[] args) {
+		
 		
 
 	}
