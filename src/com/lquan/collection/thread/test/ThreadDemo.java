@@ -4,7 +4,7 @@ import java.util.concurrent.Callable;
 
 /**
  * Title   ThreadDemo.java
- * Descr   线程的详细testDemo
+ * Descr   线程的详细testDemo 测试
  * Email   lquan.liu@outlook.com 
  * @author lquan
  * @dates  2017年11月18日 下午11:12:18
