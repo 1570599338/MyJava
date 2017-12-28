@@ -62,6 +62,6 @@ public class TestException_UncheckException {
  * <p>Created by  lquan on Dec 28, 201710:22:10 AM </p>
  *<p>@email:  lquan.liu@outlook.com</p>
  */
-class Person{
+ class Person{
 	
 }
