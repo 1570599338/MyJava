@@ -1,0 +1,30 @@
+--------- 自定义的异常类处理对象
+//如何自定义一个异常类
+// 1.自定义的异常类继承现有的异常类
+// 2.提供一个序列号，提供几个重载的构造器
+
+
+
+	
+		
+
+代码提交步骤：
+1，新建分支
+	命令：git checkout -b lquan  
+		或 
+	git branch lquan
+	git checkout lquan
+	
+2，提交修改的模块到本地仓库
+	git add .
+	然后，提交到本地仓库
+	git commit -m "提交的模块的信息"
+
+
+3，合并分支
+	首先要钱还到切换到主分支，然后进行分支合并
+	git merge lquan
+	
+4，将本地合并后的分支提交到远程
+	git push origin master
+	
