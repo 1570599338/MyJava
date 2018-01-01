@@ -6,6 +6,7 @@ package com.lquan.Enum.test;
  * <p>Created by  lquan on Dec 29, 20176:30:11 PM </p>
  *<p>@email:  lquan.liu@outlook.com</p>
  */
-public enum TestENUM {
+public enum Spiciness {
+	NOT,Mild,MEDIUM,HOT,FLAMING
 
 }

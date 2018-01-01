@@ -1,5 +1,6 @@
 package com.lquan.test;
 
+
 import javax.print.DocFlavor.STRING;
 
 public class TestOther {
@@ -12,6 +13,12 @@ public class TestOther {
 		//Object
 		
 		//javax.servlet.include.request_uri = null;
+		
+		java.util.Date date = new java.util.Date();
+		
+		
 	}
 
 }
+
+
